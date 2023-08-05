@@ -150,7 +150,7 @@ export default function Qadar(props) {
                   className="  bg-red-500 text-white py-2 px-4 mr-3 rounded-lg shadow-md hover:bg-red-600 "
                   onClick={exitgame}
                 >
-                  exit
+                  exitt
                 </button>
                 <button
                   className="  bg-blue-500 text-white py-2 px-4 rounded-lg shadow-md hover:bg-blue-600"
