@@ -17,7 +17,7 @@ Welcome to the Quizly  repository! This quiz project allows you to test your kno
 
 ## Demo
 
-Check out the live demo of the app [https://quizlyyy.netlify.app](#).
+Check out the live demo of the app [https://quizlyyy.netlify.app]
 
 ## Features
 
